@@ -1,3 +1,3 @@
 # N-queen_algorithm_visualizer.github.io
-N-queen-algorithm-visualizer
+N-queens-algorithm-visualizer
 https://sumerishere.github.io/N-queen_algorithm_visualizer.github.io/
